@@ -1,0 +1,15 @@
+{
+  "config": "configOrchestrator",
+  "data": "dataFabricLayer",
+  "result": "outcomeManifest",
+  "count": "cardinalityProbe",
+  "name": "identityDescriptor",
+  "value": "valueEncapsulator",
+  "tmp": "transientBuffer",
+  "response": "responseManifestation",
+  "request": "requestOrchestration",
+  "error": "exceptionManifest",
+  "status": "stateDescriptor",
+  "type": "categoryClassifier",
+  "id": "identityToken"
+}
